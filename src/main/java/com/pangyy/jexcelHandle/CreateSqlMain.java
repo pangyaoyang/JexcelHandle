@@ -1,12 +1,12 @@
-package com.pangyy.createSql;
+package com.pangyy.jexcelHandle;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import org.apache.commons.lang3.StringUtils;
 
-import com.pangyy.createSql.common.ExcelUtil;
-import com.pangyy.createSql.common.WriteFile;
+import com.pangyy.jexcelHandle.common.ExcelUtil;
+import com.pangyy.jexcelHandle.common.WriteFile;
 
 
 public class CreateSqlMain 
