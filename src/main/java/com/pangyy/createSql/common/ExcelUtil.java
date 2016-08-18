@@ -1,4 +1,4 @@
-package com.dtdream.createSql.common;
+package com.pangyy.createSql.common;
 
 /**
  * Created by pangyaoyang on 2016/6/15.

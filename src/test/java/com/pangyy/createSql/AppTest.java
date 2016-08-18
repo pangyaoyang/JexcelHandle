@@ -1,4 +1,4 @@
-package com.dtdream.createSql;
+package com.pangyy.createSql;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

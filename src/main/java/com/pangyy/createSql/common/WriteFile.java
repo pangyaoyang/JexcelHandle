@@ -1,4 +1,4 @@
-package com.dtdream.createSql.common;
+package com.pangyy.createSql.common;
 
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;

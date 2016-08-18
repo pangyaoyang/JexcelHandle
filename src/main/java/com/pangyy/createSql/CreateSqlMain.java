@@ -1,4 +1,4 @@
-package com.dtdream.createSql;
+package com.pangyy.createSql;
 
 import java.util.ArrayList;
 import java.util.List;
